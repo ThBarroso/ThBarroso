@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ThBarroso
+- Student at Puc Minas - Computer Science
+- 🌱 I’m currently learning Java,C,C++,SQL.
