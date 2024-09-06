@@ -15,7 +15,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com experiência em
 
 ## Sobre mim:
 
-- 💻 Atualmente estudando **Ciência da Computação** na PUC Minas.
+- 💻 Atualmente estudando **Ciência da Computação** na PUC Minas e cursos na  **Alura** como de react, JavaScript e HTMl e CSS.
 - 💡 Sempre buscando formas de otimizar o desenvolvimento e solucionar problemas com criatividade.
 - 🎯 Focado em iniciar minha carreira em desenvolvimento de software.
   
